@@ -9,7 +9,7 @@
 	- Carlos Roberto Medeiros de Lima
 
 <p align="center">
-  <img src= "https://github.com/CarlosRobertoMedeiros/complexidade-de-software/blob/main/draw-io/fluxo_complexidade_de_software.png" />
+  <img src= "https://github.com/CarlosRobertoMedeiros/complexidade-de-software/blob/main/draw-io/Fluxo_Complexidade_de_Software.png" />
 </p>
 
 ## General
